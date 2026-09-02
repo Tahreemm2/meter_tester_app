@@ -1,0 +1,38 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# macOS
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Coverage
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
